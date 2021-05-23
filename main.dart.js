@@ -16528,8 +16528,7 @@ _.e="Login"
 _.f="Sign Up"
 _.r="Dont have an account? "
 _.x=!0
-_.y="vanwykpretorius@ahghealth.co.za"
-_.z="VaPr@2018"
+_.z=_.y=""
 _.a=null
 _.b=b
 _.c=null},
@@ -77390,9 +77389,9 @@ S.mA.prototype={
 al:function(){return new S.JL(new N.bv(null,t.Jv),C.k)}}
 S.JL.prototype={
 a1I:function(){var s=null
-return new T.aQ(new V.Y(8,8,8,8),E.dJ(L.cB(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,!1,s,s,"E-mail",s,L.dp(C.v3,C.O),s,s,s,s,s,s,s,s,s),"vanwykpretorius@ahghealth.co.za",C.oj,s,!1,new S.a59(this),s,new S.a5a(this),!1,C.R,new S.a5b()),s)},
+return new T.aQ(new V.Y(8,8,8,8),E.dJ(L.cB(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,!1,s,s,"E-mail",s,L.dp(C.v3,C.O),s,s,s,s,s,s,s,s,s),"",C.oj,s,!1,new S.a59(this),s,new S.a5a(this),!1,C.R,new S.a5b()),s)},
 a1Y:function(){var s=null
-return new T.aQ(new V.Y(8,8,8,8),E.dJ(L.cB(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,!1,s,s,"Password",s,L.dp(C.v6,C.O),s,s,s,s,s,s,s,s,s),"VaPr@2018",C.jF,s,!0,s,new S.a5g(this),new S.a5h(this),!1,C.R,new S.a5i()),s)},
+return new T.aQ(new V.Y(8,8,8,8),E.dJ(L.cB(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,!1,s,s,"Password",s,L.dp(C.v6,C.O),s,s,s,s,s,s,s,s,s),"",C.jF,s,!0,s,new S.a5g(this),new S.a5h(this),!1,C.R,new S.a5i()),s)},
 a1K:function(){var s=null
 return T.dt(H.b([U.aej(L.ap("Forgot Password",s,s,s,s,A.ba(s,s,C.O,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s),s,s),new S.a5c(),s)],t._),C.eR,C.a4,C.P,s)},
 a1O:function(){var s=this,r=null,q=t.w,p=s.c.W(q).f,o=s.c.W(q).f,n=K.i6(30)
@@ -77549,7 +77548,7 @@ J.ke(q.y2,s)
 return r},
 aer:function(a){return E.atW(new Q.akB(this),a,t.z)},
 abw:function(){var s=null,r=L.cB(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"Enter the Medication Name",s,s,s,!1,s,s,"Medication Name",s,s,s,s,s,s,s,s,s,s,s),q=this.rx&&!0
-return E.dJ(r,s,C.jH,50,!1,s,s,new Q.akq(this),q,C.R,s)},
+return E.dJ(r,s,C.jH,50,!1,new Q.akq(this),s,s,q,C.R,s)},
 BH:function(){var s=null,r=L.cB(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"Enter your dosage in mg",s,s,s,!1,s,s,"Dosage in mg",s,s,s,s,s,s,s,s,s,s,s),q=this.rx&&!0
 return E.dJ(r,s,C.bU,3,!1,s,s,new Q.ako(this),q,C.R,new Q.akp())},
 BI:function(){var s=null,r=L.cB(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"Enter your schedule",s,s,s,!1,s,s,"Schedule (Times per day)",s,s,s,s,s,s,s,s,s,s,s),q=this.rx&&!0
