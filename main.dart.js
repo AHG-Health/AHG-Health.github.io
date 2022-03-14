@@ -84588,7 +84588,7 @@ V9(a){var s=0,r=A.a4(t.z),q,p,o
 var $async$uu=A.a5(function(b,c){if(b===1)return A.a1(c,r)
 while(true)switch(s){case 0:A.c9("getCorrelationCoeffiecients")
 p=t.X
-p=A.aI(["Content-Type","application/json; charset=UTF-8"],p,p)
+p=A.aI(["Content-Type","text/plain; charset=UTF-8"],p,p)
 s=3
 return A.a8(A.J8("https://svud7lyxnh.execute-api.eu-west-1.amazonaws.com/Correlation",A.aUw(a),p),$async$uu)
 case 3:o=c
